@@ -21,22 +21,14 @@ Campos identificados no cadastro desse site:
 * Confirme seu e-mail
 * Senha 
 * Confirmar senha
-* Como gostaria de receber seu pedido?
-* Entregar no seu endereço
-* Retirar na loja
-* Campos obrigatórios *
-* Informações de contato
-* Endereço de entrega
-* Local: 
-* Nome*
-* Sobrenome*
-* CEP*
-* VALIDAR CEP
-* Endereço*
-* Número da residência*
+* Dados de Endereço 
+* CEP
+* Endereço
+* Número de Residência
+* Bairro
+* Cidade
+* Estado
 * Adicione as instruções de entrega(opcional)
-* Cidade*
-* BR +55
 * Número de telefone*
 * CPF*
 * RG*
@@ -45,7 +37,6 @@ Campos identificados no cadastro desse site:
 * Standard Delivery
 * Frete em 2-3 dias úteis
 * Os itens podem ser enviados individualmente assim que estiverem disponíveis. Você receberá e-mails de confirmação separados quando os produtos forem enviados para você.
-* Torne seu presente especial com uma mensagem personalizada em um cartão Prada. Se preferir preenchê-lo manualmente, não digite nenhuma mensagem e você receberá um cartão Prada em branco.
 
 # 🛠️ Tecnologias 
 * HTML
