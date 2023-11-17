@@ -46,11 +46,11 @@ Campos identificados no cadastro desse site:
 * GitHub
 * Bootstrap 5 
 # 📁 linguagens usadas
-git clone
-git add .
-git commit -m ""
-git push
-git status
+* git clone
+* git add .
+* git commit -m ""
+* git push
+* git status
 # Sites Utilizados
 * Prada 
 * Zara
