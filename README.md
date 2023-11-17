@@ -41,10 +41,10 @@ Campos identificados no cadastro desse site:
 # 🛠️ Tecnologias 
 * HTML
 * CSS 
+* Bootstrap 5 
 # 🔧 Ferramentas 
 * VSCODE 
 * GitHub
-* Bootstrap 5 
 # 📁 linguagens usadas
 * git clone
 * git add .
