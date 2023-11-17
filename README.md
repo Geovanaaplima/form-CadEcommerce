@@ -12,7 +12,6 @@ Os 3 sites têm campos de cadastros parecidos, mais tem coisas que são diferent
 
 # 📄 Formulario de Cadastro
 Campos identificados no cadastro desse site: 
-* Forma de tratamento 
 * Nome 
 * Sobrenome
 * Data de Nascimento
