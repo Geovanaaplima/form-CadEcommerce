@@ -16,7 +16,9 @@ Campos identificados no cadastro desse site:
 * Nome 
 * Sobrenome
 * Data de Nascimento
-* Brasil
+* CPF*
+* RG*
+* País 
 * E-mail
 * Confirme seu e-mail
 * Senha 
@@ -30,8 +32,6 @@ Campos identificados no cadastro desse site:
 * Estado
 * Adicione as instruções de entrega(opcional)
 * Número de telefone*
-* CPF*
-* RG*
 * Os endereços de cobrança e entrega são os mesmos
 * Método de envio
 * Standard Delivery
@@ -44,6 +44,7 @@ Campos identificados no cadastro desse site:
 # 🔧 Ferramentas 
 * VSCODE 
 * GitHub
+* Bootstrap 5 
 # 📁 linguagens usadas
 git clone
 git add .
